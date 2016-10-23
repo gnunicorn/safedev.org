@@ -2,14 +2,14 @@
 # Global
 ###
 
-site_title: Yarn
-site_description: Fast, reliable, and secure dependency management.
+site_title: SAFE for developers
+site_description: Secure, efficient, and no-cost infrastructure.
 
 site_nav_getting_started: Getting Started
 site_nav_documentation: Documentation
 site_nav_blog: Blog
 
-site_bsd_license: Distributed under BSD License
+site_bsd_license: Distributed under GPL License
 site_code_of_conduct: Code of Conduct
 site_edit_this_page: Edit this page
 
@@ -23,7 +23,7 @@ iframe_github_stars: GitHub Stars
 # Homepage
 ###
 
-homepage_tagline: Fast, reliable, and secure dependency management.
+homepage_tagline: Secure, efficient, and no-cost infrastructure.
 
 homepage_feature_fast_title: Ultra Fast.
 homepage_feature_fast_description: |
@@ -47,7 +47,7 @@ homepage_feature_reliable_image_alt: Generic placeholder image
 
 homepage_c2a_text: What are you waiting for?
 homepage_c2a_button: Get Started
-homepage_install_button: Install Yarn
+homepage_install_button: Install SAFE
 
 homepage_featurette_offline_title: Offline Mode
 homepage_featurette_offline_description: |

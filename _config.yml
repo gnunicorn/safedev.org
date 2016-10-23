@@ -1,12 +1,9 @@
 # Site settings
-title: Yarn
+title: SAFE for developers
 description: > # this means to ignore newlines until "baseurl:"
-  Fast, reliable, and secure dependency management.
+  Secure, efficient, and no-cost infrastructure.
 baseurl: ""
-url: "https://yarnpkg.com"
-twitter_username: yarnpkg
-github_username:  yarnpkg
-latest_version: 0.16.0
+url: "https://safedev.org"
 gacode: "UA-85522875-1"
 
 exclude:
