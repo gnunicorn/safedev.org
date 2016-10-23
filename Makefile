@@ -10,10 +10,10 @@ install: test-bundler
 	@bundle install
 
 serve: test-jekyll
-	@jekyll serve
+	@bundle exec jekyll serve
 
 build: test-jekyll
-	@jekyll build
+	@bundle exec jekyll build
 
 serve-production: test-jekyll
 	@JEKYLL_ENV=production jekyll serve
