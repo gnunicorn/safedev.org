@@ -23,26 +23,24 @@ iframe_github_stars: GitHub Stars
 # Homepage
 ###
 
-homepage_tagline: Secure, efficient, and no-cost infrastructure.
+homepage_tagline: Building the privacy-first future.
 
-homepage_feature_fast_title: Ultra Fast.
+homepage_feature_fast_title: Decentralised Applications.
 homepage_feature_fast_description: |
-  Yarn caches every package it downloads so it never needs to again. It also
-  parallelizes operations to maximize resource utilization so install times are
-  faster than ever.
+  The ecosystem around the SAFE Network is already starting to blossom and a number of [exciting apps](http://apps.safenetwork.org)* are already being built by third party developers using the SAFE APIs.
+  Applications that provide access via the Launcher API ensure that you can access all apps with the same PIN, username and password used when you created your SAFE account. This means that you stay in control of your details at all times.
+  \*The projects listed within the link above are built and maintained by independent parties.
 homepage_feature_fast_image_alt: Generic placeholder image
 
-homepage_feature_secure_title: Mega Secure.
+homepage_feature_secure_title: A secure home for all your data.
 homepage_feature_secure_description: |
-  Yarn uses checksums to verify the integrity of every installed package
-  before its code is executed.
+  The SAFE Network is soon to provide access to a world of exciting apps where the security of your data is put above all else. In time, downloading the free SAFE software will provide access to: messaging, apps, email, social networks, data storage, video conferencing, and much more.
 homepage_feature_secure_image_alt: Generic placeholder image
 
-homepage_feature_reliable_title: Super Reliable.
+homepage_feature_reliable_title: Crowd sourced internet.
 homepage_feature_reliable_description: |
-  Using a detailed, but concise, lockfile format, and a deterministic algorithm
-  for installs, Yarn is able to guarantee that an install that worked on one
-  system will work exactly the same way on any other system.
+  Rather than using data centres and servers common within today’s internet, which are prone to data theft and surveillance, the SAFE Network uses advanced P2P technology, that joins together the spare computing capacity of all SAFE users, creating a global network. You can think of SAFE as a crowd sourced internet. It is on this network that everyone’s data and applications reside.
+  All you need to join this network is to download the free SAFE software, create your account and tell the network how much space you are going to provide. It’s that simple!
 homepage_feature_reliable_image_alt: Generic placeholder image
 
 homepage_c2a_text: What are you waiting for?

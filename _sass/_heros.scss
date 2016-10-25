@@ -18,13 +18,14 @@
   z-index: 1;
   left: 0;
   right: 0;
-  height: 7px;
+  height: 3px;
   // background-image: url(/assets/border-top-or-bottom.png);
   background-repeat: repeat-x;
   background-size: 144px auto;
 }
 
 .hero::before {
+  background-color: $safe-accent-yellow;
   top: 0;
   background-position: top -4px center;
 }

@@ -62,3 +62,5 @@ _data/i18n/vi.yml
 _data/i18n/uk.yml
 _data/i18n/zh-Hans.yml
 _data/i18n/zh-Hant.yml
+.bundle
+vendor

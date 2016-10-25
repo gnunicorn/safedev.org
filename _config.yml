@@ -12,6 +12,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
+  - vendor
 
 include:
   - _redirects

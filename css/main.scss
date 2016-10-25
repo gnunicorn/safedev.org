@@ -4,9 +4,12 @@
 @charset "utf-8";
 
 $yarn-blue:         #5592d7;
-$yarn-blue-dark:    #5592d7;
-$yarn-blue-darker:  #1b7eab;
+$yarn-blue-dark:    #357AC6;
+$yarn-blue-darker:  #1460B4;
 $yarn-blue-darkest: #fff;
+
+$safe-accent-yellow: #f8ca64;
+
 
 $text-muted:    #52585e;
 $text-muted-er: #6d767d;
@@ -19,7 +22,13 @@ $navbar-light-disabled-color: rgba(0,0,0,.3);
 $brand-primary: $yarn-blue;
 $progress-bar-color: $brand-primary;
 
-$font-family-sans-serif: "Open Sans", sans-serif;
+$font-family-sans-serif: "Roboto", sans-serif;
+$font-family-monospace: 'Source Code Pro', monospace;
+
+$headings-font-family: 'Roboto Slab', serif;
+// $headings-font-weight;
+// $headings-line-height;
+
 
 $link-color: saturate(darken($brand-primary, 8%), 20%);
 
